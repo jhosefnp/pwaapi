@@ -1,0 +1,26 @@
+# pwaapi
+{
+"products" :[
+{"id":1,"name":"Fox, grey","category":"Aquamarine"},
+{"id":2,"name":"Four-striped grass mouse","category":"Fuscia"},
+{"id":3,"name":"Cook's tree boa","category":"Red"},
+{"id":4,"name":"European beaver","category":"Yellow"},
+{"id":5,"name":"Impala","category":"Fuscia"},
+{"id":6,"name":"Echidna, short-beaked","category":"Aquamarine"},
+{"id":7,"name":"Phalarope, grey","category":"Yellow"},
+{"id":8,"name":"Stanley crane","category":"Goldenrod"},
+{"id":9,"name":"Malachite kingfisher","category":"Mauv"},
+{"id":10,"name":"Hyena, striped","category":"Maroon"},
+{"id":11,"name":"Cormorant, large","category":"Puce"},
+{"id":12,"name":"Vicuna","category":"Blue"},
+{"id":13,"name":"Brocket, brown","category":"Puce"},
+{"id":14,"name":"Cockatoo, long-billed","category":"Maroon"},
+{"id":15,"name":"Macaw, red and blue","category":"Crimson"},
+{"id":16,"name":"Turkey, australian brush","category":"Teal"},
+{"id":17,"name":"Hornbill, yellow-billed","category":"Crimson"},
+{"id":18,"name":"Boa, malagasy ground","category":"Green"},
+{"id":19,"name":"Jaeger, long-tailed","category":"Yellow"},
+{"id":20,"name":"Curve-billed thrasher","category":"Teal"}
+]
+}
+
